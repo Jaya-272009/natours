@@ -10,7 +10,7 @@
   "license": "ISC",
   "homepage": "https://Jaya-272009.github.io/natours",
   "devDependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "node-sass": "^4.12.0"
   },
   "dependencies": {
