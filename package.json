@@ -1,0 +1,19 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "landing page for natours",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "jaya",
+  "license": "ISC",
+  "homepage": "https://Jaya-272009.github.io/natours",
+  "devDependencies": {
+    "jquery": "^3.4.1",
+    "node-sass": "^4.12.0"
+  },
+  "dependencies": {
+    "gh-pages": "^3.0.0"
+  }
+}
